@@ -1,0 +1,1 @@
+harlequin -a sqlite "/Users/juanpabloberger/Desktop/Juanesh_Session/Bikestore.db"
